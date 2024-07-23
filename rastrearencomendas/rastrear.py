@@ -22,4 +22,3 @@ while(option.lower() == 's'):
         print('\n=> Objeto não encontrado.\n')
 
     option = input('Deseja rastrear outro objeto? [s/n] ')
-
